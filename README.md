@@ -1,4 +1,4 @@
-# Detect_Vehuman
+# DetectVehuman (Detect Vehicle and Human)
 This project detects vehicles and controls gate lock based on vehicle presence using YOLOv4-Tiny. It includes a GUI to monitor gate status and logs system events.
 
 
