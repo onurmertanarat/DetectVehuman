@@ -32,7 +32,7 @@ This project detects vehicles and controls gate lock based on vehicle presence u
 
 ## Usage
 To start the vehicle detection system:
-    ```bash
+    
     python main.py
 
 
