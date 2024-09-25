@@ -37,9 +37,9 @@ To start the vehicle detection system:
 
 
 ## Images
-   ![YOLO Detection](https://github.com/onurmertanarat/DetectVehuman/blob/main/images/vehicle_detection.png)
+   ![YOLO Detection](https://github.com/onurmertanarat/DetectVehuman/blob/main/imgs/vehicle_detection.png)
    
-   ![Log Viewer](https://github.com/onurmertanarat/DetectVehuman/blob/main/images/log.png)
+   ![Log Viewer](https://github.com/onurmertanarat/DetectVehuman/blob/main/imgs/log.png)
 
 
 ## License
