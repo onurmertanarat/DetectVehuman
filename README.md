@@ -11,7 +11,7 @@ This project detects vehicles and controls gate lock based on vehicle presence u
 ## Requirements
 - Python 3.x
 - OpenCV
-- numpy
+- NumPy
 
 
 ## Installation
