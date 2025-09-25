@@ -6,3 +6,7 @@ __pycache__/
 
 # Ignore logs
 logs/
+
+# IDE/Editor folders
+.vscode/
+.idea/

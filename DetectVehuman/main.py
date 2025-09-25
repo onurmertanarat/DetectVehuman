@@ -5,10 +5,10 @@ from log_viewer import LogViewer
 from yolo_vehicle_detector import YOLOVehicleDetector
 
 def main():
-    video_path = "videos/traffic1.mp4"
-    yolo_cfg = "models/yolov4-tiny.cfg"
-    yolo_weights = "models/yolov4-tiny.weights"
-    coco_names = "models/coco.names"
+    video_path = "../videos/traffic1.mp4"
+    yolo_cfg = "../models/yolov4-tiny.cfg"
+    yolo_weights = "../models/yolov4-tiny.weights"
+    coco_names = "../models/coco.names"
 
     log_system = LogSystem()
 
